@@ -1,0 +1,14 @@
+C:\Users\fic\Desktop\CondicionaisCSharp\bin\Debug\net8.0\CondicionaisCSharp.exe
+C:\Users\fic\Desktop\CondicionaisCSharp\bin\Debug\net8.0\CondicionaisCSharp.deps.json
+C:\Users\fic\Desktop\CondicionaisCSharp\bin\Debug\net8.0\CondicionaisCSharp.runtimeconfig.json
+C:\Users\fic\Desktop\CondicionaisCSharp\bin\Debug\net8.0\CondicionaisCSharp.dll
+C:\Users\fic\Desktop\CondicionaisCSharp\bin\Debug\net8.0\CondicionaisCSharp.pdb
+C:\Users\fic\Desktop\CondicionaisCSharp\obj\Debug\net8.0\CondicionaisCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fic\Desktop\CondicionaisCSharp\obj\Debug\net8.0\CondicionaisCSharp.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\CondicionaisCSharp\obj\Debug\net8.0\CondicionaisCSharp.AssemblyInfo.cs
+C:\Users\fic\Desktop\CondicionaisCSharp\obj\Debug\net8.0\CondicionaisCSharp.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\CondicionaisCSharp\obj\Debug\net8.0\CondicionaisCSharp.dll
+C:\Users\fic\Desktop\CondicionaisCSharp\obj\Debug\net8.0\refint\CondicionaisCSharp.dll
+C:\Users\fic\Desktop\CondicionaisCSharp\obj\Debug\net8.0\CondicionaisCSharp.pdb
+C:\Users\fic\Desktop\CondicionaisCSharp\obj\Debug\net8.0\CondicionaisCSharp.genruntimeconfig.cache
+C:\Users\fic\Desktop\CondicionaisCSharp\obj\Debug\net8.0\ref\CondicionaisCSharp.dll
